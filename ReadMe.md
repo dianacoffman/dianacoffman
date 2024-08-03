@@ -1,5 +1,5 @@
 # 💫 About Me:
-A data scientisA data scientist passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.t passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.
+Data scientist passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.t passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.
 
 
 ## 🌐 Socials:
