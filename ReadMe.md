@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data scientist passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.t passionate about data management, creating smart visualizations and generating actionable insights to answer business questions.
+ am an engineer focused on data science. Since my first internship in 2017, I've worked with data management within the quality and business fields, measuring performance, automating processes, and creating and operating innovative visualizations to generate actionable insights that answer business questions and support decision-making. Colleagues generally know me as highly motivated and passionate about creating solutions more efficiently and cost-effectively.
 
 
 ## 🌐 Socials:
