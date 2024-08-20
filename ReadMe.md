@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineer focused on data science. Since my first internship in 2017, I've worked with data management within the quality and business fields, measuring performance, automating processes, and creating and operating innovative visualizations to generate actionable insights that answer business questions and support decision-making. Colleagues generally know me as highly motivated and passionate about creating solutions more efficiently and cost-effectively.
+I’m an analytical engineer with a love for data science and over five years of experience in data analytics within the quality, engineering, and business domains. Skilled in translating data into actionable insights for cross-functional leaders, solving complex problems to address critical business questions, and identifying growth opportunities. Colleagues generally know me as highly motivated and passionate about creating solutions more efficiently and cost-effectively.
 
 
 ## 🌐 Socials:
