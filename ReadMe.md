@@ -5,12 +5,9 @@ Here on my GitHub you can find projects about:
 
 - Data Cleaning and Data Modeling.
 - Exploratory Data Analysis (EDA).
-
--Data-Driven Search and Insights with SQL.
-
--Data Visualization in Power BI and Tableau.
-
--Web Scraping with Python.
+- Data-Driven Search and Insights with SQL.
+- Data Visualization in Power BI and Tableau.
+- Web Scraping with Python.
 
 
 ## 🌐 Socials:
