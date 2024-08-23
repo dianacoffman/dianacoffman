@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m an analytical engineer with a love for data science and over five years of experience in data analytics within the quality, engineering, and business domains. Skilled in translating data into actionable insights for cross-functional leaders, solving complex problems to address critical business questions, and identifying growth opportunities. Colleagues generally know me as highly motivated and passionate about creating solutions more efficiently and cost-effectively.
+I'm an analytical engineer specializing in data science with over five years of experience working with data analytics within the quality, engineering, and business domains. I'm seeking to assist organizations in solving complex problems to address critical business questions, translating data into actionable insights, creating elegant visualizations, and identifying growth opportunities using SQL, Excel, Power BI, and Python.
+
+Here on my GitHub you can find projects about:
+-Data Cleaning and Data Modeling.
+-Exploratory Data Analysis (EDA).
+-SQL.
+-Power BI / Data Visualization.
+-Web Scraping project.
+-Python.
 
 
 ## 🌐 Socials:
