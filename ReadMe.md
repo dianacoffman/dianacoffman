@@ -3,7 +3,7 @@ I'm an analytical engineer specializing in data science with over five years of 
 
 Here on my GitHub you can find projects about:
 
-- Data Cleaning and Data Modelin 🛠️
+- Data Cleaning and Data Modelin with Excel 🛠️
 - Exploratory Data Analysis (EDA) with SQL 💡
 - Data Visualization in Power BI and Tableau 📑
 - Web Scraping with Python 🔎
