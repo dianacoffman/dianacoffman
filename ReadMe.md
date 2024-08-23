@@ -1,13 +1,12 @@
-# 💫 About Me:
+# ⚖️About Me:
 I'm an analytical engineer specializing in data science with over five years of experience working with data analytics within the quality, engineering, and business domains. I'm seeking to assist organizations in solving complex problems to address critical business questions, translating data into actionable insights, creating elegant visualizations, and identifying growth opportunities using SQL, Excel, Power BI, and Python.
 
 Here on my GitHub you can find projects about:
 
-- Data Cleaning and Data Modeling.
-- Exploratory Data Analysis (EDA).
-- Data-Driven Search and Insights with SQL.
-- Data Visualization in Power BI and Tableau.
-- Web Scraping with Python.
+- Data Cleaning and Data Modelin 🛠️
+- Exploratory Data Analysis (EDA) with SQL 💡
+- Data Visualization in Power BI and Tableau 📑
+- Web Scraping with Python 🔎
 
 
 ## 🌐 Socials:
