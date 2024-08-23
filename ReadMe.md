@@ -3,9 +3,8 @@ I'm an analytical engineer specializing in data science with over five years of 
 
 Here on my GitHub you can find projects about:
 
--Data Cleaning and Data Modeling.
-
--Exploratory Data Analysis (EDA).
+- Data Cleaning and Data Modeling.
+- Exploratory Data Analysis (EDA).
 
 -Data-Driven Search and Insights with SQL.
 
