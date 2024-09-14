@@ -3,7 +3,7 @@ I'm an analytical engineer specializing in data science with over five years of 
 - Data Cleaning and Data Modeling with Excel 🛠️
 - Exploratory Data Analysis (EDA) with SQL 💡
 - Data Visualization in Power BI and Tableau 📑
-- Web Scraping with Python 🔎
+- Python challenges 🔎
 
 
 ## 🌐 Socials:
