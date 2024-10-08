@@ -1,5 +1,5 @@
 ## ⚖️ About Me:
-Analytical engineer with 5+ years of experience in data analytics within the quality, engineering, and business domains. Skilled in Excel, SQL, and Power BI, but mainly in translating data into actionable insights for cross-functional leaders and solving complex problems to address critical business questions.
+Analytical engineer with 5+ years of experience in data analytics within the quality, engineering, and business domains. Skilled in translating data into actionable insights for cross-functional leaders and solving complex problems to address critical business questions through Excel, SQL, and Power BI.
 
 Here on my GitHub you can find projects about:
 • Data Cleaning and Data Modeling with Excel 🛠️
